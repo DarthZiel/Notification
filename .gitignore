@@ -1,0 +1,13 @@
+*.pyc
+*.pyo
+__pycache__/
+*.db.sqlite3
+*.log
+*.sqlite
+*.db
+*.pyc
+*.pyo
+__pycache__/
+migrations/*.py
+migrations/*.pyc
+migrations/__pycache__/
